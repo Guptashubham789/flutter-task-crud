@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50277228080",
+    "project_id": "crudtask-4756f",
+    "storage_bucket": "crudtask-4756f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50277228080:android:7b2fce66aed44f120057f5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzkhKl1zORJOEL4omfPXLYI6cAP50SXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50277228080:android:469ccd21ca0a87190057f5",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzkhKl1zORJOEL4omfPXLYI6cAP50SXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
